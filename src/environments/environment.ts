@@ -5,12 +5,12 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: 'AIzaSyAO9zIJ8l77oapqu3Z8Xxv8tjFQBCfHogE',
+//    apiKey: 'API_KEY',
     authDomain: 'rock-paper-scissors-6d0b7.firebaseapp.com',
     databaseURL: 'https://rock-paper-scissors-6d0b7.firebaseio.com',
     projectId: 'rock-paper-scissors-6d0b7',
     storageBucket: 'rock-paper-scissors-6d0b7.appspot.com',
-    messagingSenderId: '129107305682'
+//    messagingSenderId: 'SENDER_ID'
   }
 };
 
